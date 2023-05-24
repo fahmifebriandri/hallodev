@@ -1,4 +1,4 @@
 git add .
 git remote add origin https://github.com/fahmifebriandri/hallodev.git
-git comminf -m "komenan saya"
+git commit -m "komenan saya"
 git push -u origin main
