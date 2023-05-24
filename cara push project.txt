@@ -2,3 +2,6 @@ git add .
 git remote add origin https://github.com/fahmifebriandri/hallodev.git
 git commit -m "komenan saya"
 git push -u origin main
+
+
+file lama saya
